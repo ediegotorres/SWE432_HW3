@@ -1,0 +1,10 @@
+1. How many records are in the dataset?
+2. What is the average life expectancy across all records?
+3. What is the median life expectancy across all records?
+4. Which country-year record has the largest population?
+5. Which country-year record has the smallest population?
+6. Which country-year record has the highest GDP per capita?
+7. What is the average GDP per capita across all records?
+8. Which continent had the largest total population in the latest year in the dataset?
+9. Which country had the greatest population growth from its first year to its last year in the dataset?
+10. How many records have a life expectancy of at least 70 years?

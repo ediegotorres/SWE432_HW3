@@ -1,0 +1,1 @@
+https://timruffles.github.io/gapminder-data-json/gapminder.json
